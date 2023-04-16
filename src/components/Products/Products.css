@@ -1,0 +1,17 @@
+.SearchComponent{
+    width: 300px;
+    height: 50px;
+    border-radius: 15px;
+    margin: 25px 0 ;
+}
+.NestedNav {
+    background-color: antiquewhite;
+    font-weight: 500;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 50px;
+    width: 80%;
+    /* margin: auto; */
+    padding: 15px;
+}

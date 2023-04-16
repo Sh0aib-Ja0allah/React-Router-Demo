@@ -1,0 +1,17 @@
+.OrderSummaryComponent{
+    padding: 25px;
+}
+
+.BackButton{
+    margin: 25px 0;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 15px;
+    border: 1px solid black;
+}
+
+.BackButton:hover{
+    background-color: gray;
+    transform: scale(1.4, 1.4);
+    border-bottom: 3px solid #000;
+}
